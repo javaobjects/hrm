@@ -29,7 +29,7 @@
       </el-form>
     </div>
     <div style="text-align: center">
-      <a href="" target="_blank">公众号【java小白翻身】收藏整理，仅供学习交流使用</a>
+      <a href=""></a>
     </div>
   </div>
 </template>
