@@ -2,7 +2,7 @@ package com.hrm.enums;
 
 /**
  * 通用枚举接口
- * @Author qiujie
+ * @Author xianxian
  * @Date 2022/3/21
  * @Version 1.0
  */
