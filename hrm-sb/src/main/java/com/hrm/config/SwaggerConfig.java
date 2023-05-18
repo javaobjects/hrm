@@ -14,7 +14,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * 配置Api生成文档
  *
- * @Author : qiujie
+ * @Author xianxian
  * @Date : 2022/1/30
  */
 @Configuration // 标明配置类

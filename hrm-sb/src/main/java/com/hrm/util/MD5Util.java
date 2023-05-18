@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 
 /**
  * md5加密
- * @Author : qiujie
+ * @Author xianxian
  * @Date : 2022/1/28
  */
 public class MD5Util {

@@ -15,7 +15,7 @@ import java.util.List;
  * 请假类型表 服务类
  * </p>
  *
- * @author qiujie
+ * @Author xianxian
  * @since 2022-03-27
  */
 @Service

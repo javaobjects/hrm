@@ -8,7 +8,7 @@ import com.hrm.entity.LeaveType;
  * 请假类型表 Mapper 接口
  * </p>
  *
- * @author qiujie
+ * @Author xianxian
  * @since 2022-03-27
  */
 

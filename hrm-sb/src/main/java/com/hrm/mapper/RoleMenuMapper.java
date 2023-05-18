@@ -8,7 +8,7 @@ import com.hrm.entity.RoleMenu;
  * Mapper 接口
  * </p>
  *
- * @author qiujie
+ * @Author xianxian
  * @since 2022-02-28
  */
 public interface RoleMenuMapper extends BaseMapper<RoleMenu> {

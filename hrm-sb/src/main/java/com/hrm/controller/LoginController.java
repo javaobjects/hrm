@@ -13,7 +13,7 @@ import javax.annotation.Resource;
 /**
  * 登录注册接口
  *
- * @Author : qiujie
+ * @Author xianxian
  * @Date : 2022/1/30
  */
 @RestController

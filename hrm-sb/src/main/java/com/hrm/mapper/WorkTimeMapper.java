@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Select;
  * 工作时间表 Mapper 接口
  * </p>
  *
- * @author qiujie
+ * @Author xianxian
  * @since 2022-03-26
  */
 

@@ -8,7 +8,7 @@ import com.hrm.entity.Docs;
  *  Mapper 接口
  * </p>
  *
- * @author qiujie
+ * @Author xianxian
  * @since 2022-02-24
  */
 public interface DocsMapper extends BaseMapper<Docs> {
